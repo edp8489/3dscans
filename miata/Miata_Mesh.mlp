@@ -1,0 +1,70 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh label="bumper.ply" filename="raw_scans/bumper.ply">
+   <MLMatrix44>
+0.982737 -0.16898 -0.0753289 -768.56 
+0.171527 0.984761 0.0286986 56.4241 
+0.0693316 -0.0411242 0.996746 18.076 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="fbumper.ply" filename="raw_scans/fbumper.ply">
+   <MLMatrix44>
+-0.932094 0.355075 0.0715764 -244.884 
+-0.357625 -0.87076 -0.337464 1405.91 
+-0.0574992 -0.340145 0.938613 332.869 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="driver2.ply" filename="raw_scans/driver2.ply">
+   <MLMatrix44>
+0.571859 0.79488 0.202838 -89.4618 
+-0.816858 0.574538 0.0514638 160.391 
+-0.0756308 -0.19512 0.977859 266.421 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="back_driver.ply" filename="raw_scans/back_driver.ply">
+   <MLMatrix44>
+0.998695 -0.0510301 -0.0018875 -95.9711 
+0.0506705 0.985718 0.160599 191.122 
+-0.00633485 -0.160485 0.987018 288.462 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="back_1.ply" filename="raw_scans/back_1.ply">
+   <MLMatrix44>
+0.484801 -0.782245 -0.391229 -256.207 
+0.861454 0.504401 0.0589638 -1057.23 
+0.151212 -0.365612 0.918402 -734.282 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="Pass_side_1.ply" filename="raw_scans/Pass_side_1.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="Pass_side_2.ply" filename="raw_scans/Pass_side_2.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh label="soft_top.ply" filename="raw_scans/soft_top.ply">
+   <MLMatrix44>
+0.0802945 0.964912 0.249996 153.913 
+-0.992951 0.0993676 -0.0646108 13.2665 
+-0.0871852 -0.243046 0.966089 240.607 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
